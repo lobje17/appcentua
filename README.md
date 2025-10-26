@@ -114,7 +114,7 @@ Notificaremos cambios significativos en esta política a través de:
 
 Para preguntas sobre esta política de privacidad o ejercer sus derechos, contacte a:
 
-appcento.soporte@gmail.com
+<appcento.soporte@gmail.com>
 
 ---
 
