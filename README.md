@@ -1,5 +1,5 @@
 # Acppcenúa
-<img src="/assets/logo.png" width="300" height="200">
+![Mi Logo](/assets/logo.png)
 
 # Política de Privacidad
 
