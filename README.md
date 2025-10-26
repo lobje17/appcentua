@@ -1,8 +1,5 @@
 <img src="./assets/logo.png" width="150" height="150" >
 
-# Appcenúa
-
-
 # Política de Privacidad
 
 **Última actualización:** 26 de agosto de 2025
