@@ -1,29 +1,36 @@
 # Acppcenúa
+<img src="/assets/logo.png" width="300" height="200">
+
 # Política de Privacidad
 
 **Última actualización:** 26 de agosto de 2025
+
 
 ## 1. Información General
 
 Esta aplicación móvil ("Appcentúa") está diseñada para ayudar a los usuarios a aprender y practicar las reglas de acentuación de palabras en español. Su privacidad es importante para nosotros, y esta política explica cómo manejamos su información.
 
-## 2. Recopilación de Información
+
+## 2. Límite de Edad
+
+**Nuestra aplicación está dirigida exclusivamente a usuarios de 13 años o mayores.** 
+Al registrarse en la App, usted declara y garantiza que tiene al menos 13 años de edad. No recopilamos conscientemente información de menores de 13 años. Si descubrimos que hemos recopilado información personal de un menor de 13 años, eliminaremos dicha información inmediatamente.
+
+
+## 3. Recopilación de Información
 
 ### Información Personal que Recopilamos:
-- **Nombre del usuario**: Para personalizar la experiencia dentro de la App
+- **Nombre del usuario**: Para personalizar la experiencia dentro de la App.
 - **Dirección de correo electrónico**: Para el registro, inicio de sesión y recuperación de contraseña
-- **Contraseña**: Almacenada de forma cifrada en nuestras bases de datos
-- **Datos de progreso de aprendizaje**: Resultados de ejercicios y nivel alcanzado
-
-### Información Técnica que Recopilamos:
-- **Datos de uso anónimos**: Información sobre cómo interactúa con la App
-- **Datos técnicos**: Tipo de dispositivo, versión del sistema operativo, idioma preferido
+- **Contraseña**: Almacenada de forma cifrada en nuestras bases de datos.
+- **Datos de progreso de aprendizaje**: Resultados de ejercicios y nivel alcanzado.
 
 ### Información que NO recopilamos:
 - **No accedemos a contactos, fotos, archivos ni ubicación** del dispositivo
 - **No recopilamos datos sensibles** adicionales según definen las leyes de protección de datos
 
-## 3. Finalidad del Tratamiento de Datos
+
+## 4. Finalidad del Tratamiento de Datos
 
 Utilizamos su información para:
 - **Crear y gestionar su cuenta de usuario**
@@ -33,27 +40,47 @@ Utilizamos su información para:
 - **Comunicarnos con usted** para temas relacionados con su cuenta
 - **Mejorar la funcionalidad** y corregir errores
 
-## 4. Almacenamiento y Seguridad de Contraseñas
 
-- **Las contraseñas se almacenan cifradas** utilizando algoritmos de cifrado simétrico de bloques
-- **No almacenamos contraseñas en texto plano**
-- **Implementamos medidas de seguridad** técnicas y organizativas para proteger sus datos
-- **El acceso a la base de datos** está restringido al personal autorizado
+## 5. Almacenamiento y Seguridad de Contraseñas
 
-## 5. Compartición de Datos
+### Algoritmo de Cifrado AES:
+- **Utilizamos AES (Advanced Encryption Standard)** para cifrar contraseñas y tokens de sesión
+- **Implementamos medidas de seguridad** adicionales para proteger la clave de cifrado
+- **Almacenamiento seguro** en bases de datos con acceso restringido
 
-**No vendemos, comerciamos ni transferimos** sus datos personales a terceros. Podemos utilizar servicios de:
+### Medidas de Seguridad Adicionales:
+- Acceso restringido al personal autorizado
+- Caducidad de sesiones por inactividad
+- Copias de seguridad seguras
 
-- **Proveedores de autenticación**: Servicios necesarios para el manejo seguro de credenciales
-- **Servicios de hosting**: Para el almacenamiento seguro de datos
-- **Analíticas anónimas**: Para entender el uso general de la App (datos agregados)
 
-## 6. Bases Legales para el Tratamiento
+## 4. Almacenamiento Local y Gestión de Sesiones
 
-Procesamos sus datos basándonos en:
-- **Ejecución del contrato**: Para proporcionarle los servicios de la App
-- **Consentimiento**: Para el envío de comunicaciones (cuando aplicable)
-- **Interés legítimo**: Para mejorar nuestros servicios y prevenir fraudes
+### Uso del Storage del Dispositivo:
+- **Almacenamos un token de sesión** en el storage local de su dispositivo
+- **Este token permite mantener la sesión activa** entre usos de la App
+- **El token contiene información cifrada** y no incluye su contraseña
+- **La sesión permanece activa** hasta que cierre sesión manualmente o expire el token
+
+### Seguridad del Token de Sesión:
+- **Token cifrado con AES** para máxima seguridad
+- **Caducidad automática** después de un período de inactividad
+- **Regeneración periódica** del token para prevenir vulnerabilidades
+- **Eliminación automática** al cerrar sesión
+
+
+## 6. Compartición de Datos
+
+**No vendemos, comerciamos ni transferimos** sus datos personales a terceros.
+
+
+## 8. Sus Opciones de Privacidad
+
+Usted puede:
+- **Cerrar sesión manualmente** en cualquier momento (elimina el token local)
+- **Revocar sesiones activas** desde la configuración de la App
+- **Limpiar datos de la App** desde la configuración de su dispositivo
+- **Solicitar la eliminación** completa de su cuenta y datos
 
 ## 7. Derechos del Usuario
 
@@ -67,33 +94,29 @@ Usted tiene derecho a:
 
 Para ejercer estos derechos, contacte a través de: [Su email de contacto]
 
+
 ## 8. Conservación de Datos
 
-Conservaremos sus datos personales:
-- **Mientras mantenga su cuenta activa** en la App
+Conservaremos sus datos:
+- **De cuenta**: Mientras mantenga su cuenta activa en la App
+- **Token de sesión**: Hasta que cierre sesión o expire por inactividad
+- **De progreso**: Vinculados a su cuenta hasta su eliminación
+- **Datos cifrados**: Eliminados completamente al borrar la cuenta
 - **Hasta que solicite su eliminación**
-- **Periodos legales requeridos** para cumplir con obligaciones legales
 
-## 9. Menores de Edad
 
-Nuestra aplicación:
-- **No está dirigida específicamente a menores de 13 años**
-- **Requiere consentimiento parental** para menores según la legislación aplicable
-- Si descubre que un menor ha proporcionado datos sin consentimiento, contacte inmediatamente para eliminarlos
-
-## 10. Cambios en esta Política
+## 9. Cambios en esta Política
 
 Notificaremos cambios significativos en esta política a través de:
-- **Notificación dentro de la App**
 - **Email a la dirección registrada** (para cambios sustanciales)
 
-## 11. Contacto
+
+## 10. Contacto
 
 Para preguntas sobre esta política de privacidad o ejercer sus derechos, contacte a:
 
-[Su email de contacto]  
-[Su dirección física opcional]
+[Su email de contacto]
 
 ---
 
-*Esta política es efectiva a partir de [Fecha de implementación]*
+*Esta política es efectiva a partir de 26 de agosto de 2025*
