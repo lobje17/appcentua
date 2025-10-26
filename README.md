@@ -1,6 +1,7 @@
-# Acppcenúa
-![Mi Logo](/assets/logo.png)
-<img src="./assets/logo.png" width="300" height="200">
+<img src="./assets/logo.png" width="300" height="300" >
+
+# Appcenúa
+
 
 # Política de Privacidad
 
@@ -55,7 +56,7 @@ Utilizamos su información para:
 - Copias de seguridad seguras
 
 
-## 4. Almacenamiento Local y Gestión de Sesiones
+## 6. Almacenamiento Local y Gestión de Sesiones
 
 ### Uso del Storage del Dispositivo:
 - **Almacenamos un token de sesión** en el storage local de su dispositivo
@@ -70,7 +71,7 @@ Utilizamos su información para:
 - **Eliminación automática** al cerrar sesión
 
 
-## 6. Compartición de Datos
+## 7. Compartición de Datos
 
 **No vendemos, comerciamos ni transferimos** sus datos personales a terceros.
 
@@ -83,7 +84,7 @@ Usted puede:
 - **Limpiar datos de la App** desde la configuración de su dispositivo
 - **Solicitar la eliminación** completa de su cuenta y datos
 
-## 7. Derechos del Usuario
+## 9. Derechos del Usuario
 
 Usted tiene derecho a:
 - **Acceder** a sus datos personales
@@ -96,7 +97,7 @@ Usted tiene derecho a:
 Para ejercer estos derechos, contacte a través de: [Su email de contacto]
 
 
-## 8. Conservación de Datos
+## 10. Conservación de Datos
 
 Conservaremos sus datos:
 - **De cuenta**: Mientras mantenga su cuenta activa en la App
@@ -106,13 +107,13 @@ Conservaremos sus datos:
 - **Hasta que solicite su eliminación**
 
 
-## 9. Cambios en esta Política
+## 11. Cambios en esta Política
 
 Notificaremos cambios significativos en esta política a través de:
 - **Email a la dirección registrada** (para cambios sustanciales)
 
 
-## 10. Contacto
+## 12. Contacto
 
 Para preguntas sobre esta política de privacidad o ejercer sus derechos, contacte a:
 
