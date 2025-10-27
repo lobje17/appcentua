@@ -91,7 +91,7 @@ Usted tiene derecho a:
 - **Oposición** al tratamiento de sus datos
 - **Retirar el consentimiento** en cualquier momento
 
-Para ejercer estos derechos, contacte a través de: [Su email de contacto]
+Para ejercer estos derechos, contacte a través de: <appcento.soporte@gmail.com>
 
 
 ## 10. Conservación de Datos
@@ -104,13 +104,31 @@ Conservaremos sus datos:
 - **Hasta que solicite su eliminación**
 
 
-## 11. Cambios en esta Política
+## 11. Eliminación de Datos
+
+### Derecho a la Eliminación:
+Usted tiene **derecho a solicitar la eliminación completa** de sus datos personales en cualquier momento.
+
+### ¿Qué datos se eliminan?
+- **Información de perfil**: Nombre, apellido y correo electrónico
+- **Datos de progreso**: Resultados de ejercicios
+- **Tokens de sesión**: Todos los tokens activos e históricos
+
+### Proceso de Eliminación:
+1. **Solicitud mediante**: Correo electrónico <appcento.soporte@gmail.com>
+2. **Asunto del correo**: Eliminación de cuenta
+3. **Cuerpo del mensaje**: Mi correo electrónico es [micorreo@gmail.com]
+4. **Plazo de procesamiento**: Máximo 30 días desde la solicitud
+5. **Confirmación**: Le notificaremos cuando la eliminación se complete
+6. **Backups**: Los datos en backups se eliminarán en el próximo ciclo de rotación
+
+## 12. Cambios en esta Política
 
 Notificaremos cambios significativos en esta política a través de:
 - **Email a la dirección registrada** (para cambios sustanciales)
 
 
-## 12. Contacto
+## 13. Contacto
 
 Para preguntas sobre esta política de privacidad o ejercer sus derechos, contacte a:
 
